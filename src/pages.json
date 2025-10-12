@@ -3,14 +3,15 @@
 		{
 			"path": "pages/Live/index",
 			"style": {
-				"navigationBarTitleText": "实时监控"
+				"navigationBarTitleText": "httpflv直播"
 			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "实时监控",
+		"navigationBarTitleText": "httpflv直播",
 		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"backgroundColor": "#F8F8F8",
+		"pageOrientation": "auto"
 	}
 }
