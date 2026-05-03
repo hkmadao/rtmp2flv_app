@@ -1,17 +1,15 @@
 {
-	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	"pages": [
 		{
 			"path": "pages/Live/index",
 			"style": {
-				"navigationBarTitleText": "httpflv直播"
+				"navigationBarTitleText": "httpflv直播",
+				"navigationStyle": "default",
+				"navigationBarBackgroundColor": "#55aaff"
 			}
 		}
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "httpflv直播",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8",
 		"pageOrientation": "auto"
 	}
 }
